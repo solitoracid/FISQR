@@ -1,0 +1,2 @@
+# FISQR
+prototipo de proximidad
